@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.description {
+  max-width: 30%;
+  text-align: center;
+}
